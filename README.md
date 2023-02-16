@@ -1,1 +1,1 @@
-# Training-Session-Notes
+# Training Session Notes
